@@ -7,24 +7,24 @@ LAST MISSION PASSED: Juju Scramble
 DATE: 04/07/12
 
 
-Criminal rating:  Thug (705)
+Criminal rating:  Thug (718)
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Percentage completed
-16%
+18%
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Mission attempts
-26
+27
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Playing Time
- 6:05
+ 6:39
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Days passed in game
-21
+22
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Safehouse visits
@@ -40,11 +40,11 @@ Hidden Packages found
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 People you've wasted
-395
+396
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 People wasted by others
-65
+69
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Road Vehicles destroyed
@@ -64,11 +64,11 @@ Tires popped with gunfire
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total number of wanted stars attained
-46
+47
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total number of wanted stars evaded
-30
+31
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Times busted
@@ -84,7 +84,7 @@ Number of headshots
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Daily police spending
-$59262.00
+$76121.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Least favorite gang
@@ -118,15 +118,15 @@ Accuracy
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled on foot (miles)
-8.87
+9.06
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by car (miles)
-194.79
+197.87
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by bike (miles)
-11.02
+29.79
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by boat (miles)
@@ -142,7 +142,7 @@ Dist. traveled by helicopter (miles)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total distance traveled (miles)
-225.26
+247.30
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Max. INSANE Jump dist. (m)
@@ -235,6 +235,10 @@ Assassination Contracts Completed
   2 out of 5
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Pizza's Delivered
+55
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Flight hours
  0:00
 
@@ -268,7 +272,7 @@ $50.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Property Budget
-$12500.00
+$20500.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Auto Repair and Painting Budget
@@ -280,11 +284,13 @@ $152601.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Property Owned
-4
+5
 
 3321 Vice Point
 
 Links View Apartment
+
+El Swanko Casa
 
 1102 Washington Street
 

@@ -1,0 +1,300 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+			GTA VICE CITY STATS
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+LAST MISSION PASSED: Juju Scramble
+DATE: 04/07/12
+
+
+Criminal rating:  Thug (705)
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Percentage completed
+16%
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mission attempts
+26
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Playing Time
+ 6:05
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Days passed in game
+21
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Safehouse visits
+8
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Rampages passed
+  5 out of 35
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Hidden Packages found
+  8 out of 100
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+People you've wasted
+395
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+People wasted by others
+65
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Road Vehicles destroyed
+36
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Boats destroyed
+3
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Planes & Helicopters destroyed
+1
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Tires popped with gunfire
+15
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total number of wanted stars attained
+46
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total number of wanted stars evaded
+30
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Times busted
+1
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Hospital visits
+6
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Number of headshots
+23
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Daily police spending
+$59262.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Least favorite gang
+
+
+Haitians
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Gang members wasted
+192
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Criminals wasted
+6
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Kgs of explosives used
+10
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Bullets fired
+4105
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Bullets that hit
+1511
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Accuracy
+36%
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled on foot (miles)
+8.87
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled by car (miles)
+194.79
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled by bike (miles)
+11.02
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled by boat (miles)
+6.24
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled by golf cart (miles)
+0.63
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled by helicopter (miles)
+3.71
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total distance traveled (miles)
+225.26
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump dist. (m)
+70.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump height (m)
+21.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump flips
+1
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Unique Jumps completed
+  4 out of 36
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump rotation
+309º
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Best INSANE stunt so far
+
+
+Insane stunt
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Wheelie time (secs)
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Wheelie distance (m)
+0.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Stoppie time (secs)
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Stoppie distance (m)
+0.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest 2 wheels time (secs)
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest 2 wheels distance (m)
+0.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Criminals killed on Vigilante Mission
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Highest Vigilante Mission level
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Passengers dropped off
+100
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Cash made in taxi
+$20973.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+People saved in an Ambulance
+11
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Highest Paramedic Mission level
+3
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total fires extinguished
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fire Truck Mission level 
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Stores Knocked Off
+  0 out of 15
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Assassination Contracts Completed
+  2 out of 5
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Flight hours
+ 0:00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fishes Fed
+3
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Most Favorite Radio Station
+
+
+EMOTION 98.3
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Least Favorite Radio Station
+
+
+WAVE 103
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Sprayings
+25
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Weapon Budget
+$4000.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fashion Budget
+$50.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Property Budget
+$12500.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Auto Repair and Painting Budget
+$2200.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Property Destroyed
+$152601.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Property Owned
+4
+
+3321 Vice Point
+
+Links View Apartment
+
+1102 Washington Street
+
+Skumole Shack
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Highest media attention
+31
+
+Boring
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+

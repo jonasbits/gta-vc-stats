@@ -4,51 +4,51 @@
 
 
 LAST MISSION PASSED: Bombs Away!
-DATE: 04/09/12
+DATE: 04/10/12
 
 
-Criminal rating:  Ex-Con (1332)
+Criminal rating:  Felon (1508)
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Percentage completed
-22%
+24%
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Mission attempts
-38
+39
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Playing Time
- 10:05
+ 12:24
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Days passed in game
-35
+44
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Safehouse visits
-14
+18
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Rampages passed
-  11 out of 35
+  14 out of 35
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Hidden Packages found
-  16 out of 100
+  25 out of 100
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 People you've wasted
-820
+983
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 People wasted by others
-173
+195
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Road Vehicles destroyed
-91
+120
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Boats destroyed
@@ -56,19 +56,19 @@ Boats destroyed
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Planes & Helicopters destroyed
-10
+12
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Tires popped with gunfire
-40
+50
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total number of wanted stars attained
-85
+116
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total number of wanted stars evaded
-47
+63
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Times busted
@@ -76,15 +76,15 @@ Times busted
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Hospital visits
-12
+16
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Number of headshots
-46
+63
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Daily police spending
-$43935.00
+$77653.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Least favorite gang
@@ -94,43 +94,43 @@ Haitians
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Gang members wasted
-461
+574
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Criminals wasted
-7
+9
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Kgs of explosives used
-92
+128
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Bullets fired
-8293
+9896
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Bullets that hit
-3072
+3518
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Accuracy
-37%
+35%
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled on foot (miles)
-20.69
+30.85
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by car (miles)
-262.67
+288.58
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by bike (miles)
-35.62
+40.33
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by boat (miles)
-6.24
+10.72
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by golf cart (miles)
@@ -138,11 +138,11 @@ Dist. traveled by golf cart (miles)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by helicopter (miles)
-10.54
+19.73
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total distance traveled (miles)
-336.39
+390.84
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Max. INSANE Jump dist. (m)
@@ -158,7 +158,7 @@ Max. INSANE Jump flips
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Unique Jumps completed
-  7 out of 36
+  8 out of 36
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Max. INSANE Jump rotation
@@ -228,7 +228,7 @@ Fire Truck Mission level
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Stores Knocked Off
-  0 out of 15
+  2 out of 15
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Assassination Contracts Completed
@@ -237,6 +237,10 @@ Assassination Contracts Completed
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Pizza's Delivered
 55
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on RC helicopter Pickup
+ 8:53
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Flight hours
@@ -260,15 +264,15 @@ WAVE 103
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Sprayings
-25
+27
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Weapon Budget
-$5410.00
+$5910.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Fashion Budget
-$100.00
+$250.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Property Budget
@@ -276,11 +280,11 @@ $34500.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Auto Repair and Painting Budget
-$2200.00
+$2400.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Property Destroyed
-$462126.00
+$631443.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Property Owned

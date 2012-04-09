@@ -3,72 +3,72 @@
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
-LAST MISSION PASSED: Juju Scramble
-DATE: 04/07/12
+LAST MISSION PASSED: Bombs Away!
+DATE: 04/09/12
 
 
-Criminal rating:  Thug (718)
+Criminal rating:  Ex-Con (1332)
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Percentage completed
-18%
+22%
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Mission attempts
-27
+38
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Playing Time
- 6:39
+ 10:05
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Days passed in game
-22
+35
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Safehouse visits
-8
+14
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Rampages passed
-  5 out of 35
+  11 out of 35
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Hidden Packages found
-  8 out of 100
+  16 out of 100
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 People you've wasted
-396
+820
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 People wasted by others
-69
+173
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Road Vehicles destroyed
-36
+91
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Boats destroyed
-3
+6
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Planes & Helicopters destroyed
-1
+10
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Tires popped with gunfire
-15
+40
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total number of wanted stars attained
-47
+85
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total number of wanted stars evaded
-31
+47
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Times busted
@@ -76,15 +76,15 @@ Times busted
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Hospital visits
-6
+12
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Number of headshots
-23
+46
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Daily police spending
-$76121.00
+$43935.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Least favorite gang
@@ -94,39 +94,39 @@ Haitians
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Gang members wasted
-192
+461
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Criminals wasted
-6
+7
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Kgs of explosives used
-10
+92
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Bullets fired
-4105
+8293
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Bullets that hit
-1511
+3072
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Accuracy
-36%
+37%
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled on foot (miles)
-9.06
+20.69
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by car (miles)
-197.87
+262.67
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by bike (miles)
-29.79
+35.62
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by boat (miles)
@@ -138,19 +138,19 @@ Dist. traveled by golf cart (miles)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by helicopter (miles)
-3.71
+10.54
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total distance traveled (miles)
-247.30
+336.39
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Max. INSANE Jump dist. (m)
-70.00
+91.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Max. INSANE Jump height (m)
-21.00
+24.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Max. INSANE Jump flips
@@ -158,11 +158,11 @@ Max. INSANE Jump flips
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Unique Jumps completed
-  4 out of 36
+  7 out of 36
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Max. INSANE Jump rotation
-309º
+350º
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Best INSANE stunt so far
@@ -188,11 +188,11 @@ Longest Stoppie distance (m)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Longest 2 wheels time (secs)
-0
+2
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Longest 2 wheels distance (m)
-0.00
+58.54
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Criminals killed on Vigilante Mission
@@ -220,11 +220,11 @@ Highest Paramedic Mission level
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total fires extinguished
-0
+109
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Fire Truck Mission level 
-0
+10
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Stores Knocked Off
@@ -244,13 +244,13 @@ Flight hours
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Fishes Fed
-3
+4
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Most Favorite Radio Station
 
 
-EMOTION 98.3
+ESPANTOSO
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Least Favorite Radio Station
@@ -264,15 +264,15 @@ Sprayings
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Weapon Budget
-$4000.00
+$5410.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Fashion Budget
-$50.00
+$100.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Property Budget
-$20500.00
+$34500.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Auto Repair and Painting Budget
@@ -280,11 +280,11 @@ $2200.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Property Destroyed
-$152601.00
+$462126.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Property Owned
-5
+6
 
 3321 Vice Point
 
@@ -296,11 +296,13 @@ El Swanko Casa
 
 Skumole Shack
 
+Hyman Condo
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Highest media attention
-31
+392
 
-Boring
+Local TV Live coverage
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 

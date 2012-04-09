@@ -7,7 +7,7 @@ LAST MISSION PASSED: Bombs Away!
 DATE: 04/10/12
 
 
-Criminal rating:  Felon (1508)
+Criminal rating:  Felon (1520)
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -20,15 +20,15 @@ Mission attempts
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Playing Time
- 12:24
+ 12:52
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Days passed in game
-44
+45
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Safehouse visits
-18
+20
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Rampages passed
@@ -36,19 +36,19 @@ Rampages passed
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Hidden Packages found
-  25 out of 100
+  26 out of 100
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 People you've wasted
-983
+993
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 People wasted by others
-195
+201
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Road Vehicles destroyed
-120
+124
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Boats destroyed
@@ -60,15 +60,15 @@ Planes & Helicopters destroyed
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Tires popped with gunfire
-50
+51
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total number of wanted stars attained
-116
+120
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total number of wanted stars evaded
-63
+69
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Times busted
@@ -80,11 +80,11 @@ Hospital visits
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Number of headshots
-63
+64
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Daily police spending
-$77653.00
+$30652.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Least favorite gang
@@ -106,11 +106,11 @@ Kgs of explosives used
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Bullets fired
-9896
+10052
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Bullets that hit
-3518
+3600
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Accuracy
@@ -118,15 +118,15 @@ Accuracy
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled on foot (miles)
-30.85
+32.96
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by car (miles)
-288.58
+297.04
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by bike (miles)
-40.33
+43.92
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by boat (miles)
@@ -138,11 +138,11 @@ Dist. traveled by golf cart (miles)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by helicopter (miles)
-19.73
+20.57
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total distance traveled (miles)
-390.84
+405.84
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Max. INSANE Jump dist. (m)
@@ -228,7 +228,7 @@ Fire Truck Mission level
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Stores Knocked Off
-  2 out of 15
+  3 out of 15
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Assassination Contracts Completed
@@ -264,15 +264,15 @@ WAVE 103
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Sprayings
-27
+28
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Weapon Budget
-$5910.00
+$7010.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Fashion Budget
-$250.00
+$330.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Property Budget
@@ -280,11 +280,11 @@ $34500.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Auto Repair and Painting Budget
-$2400.00
+$2500.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Property Destroyed
-$631443.00
+$644738.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Property Owned

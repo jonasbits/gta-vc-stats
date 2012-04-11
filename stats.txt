@@ -3,72 +3,72 @@
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
-LAST MISSION PASSED: Bombs Away!
-DATE: 04/10/12
+LAST MISSION PASSED: Supply & Demand
+DATE: 04/11/12
 
 
-Criminal rating:  Felon (1520)
+Criminal rating:  Bag Man (1909)
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Percentage completed
-24%
+29%
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Mission attempts
-39
+61
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Playing Time
- 12:52
+ 15:49
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Days passed in game
-45
+57
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Safehouse visits
-20
+21
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Rampages passed
-  14 out of 35
+  17 out of 35
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Hidden Packages found
-  26 out of 100
+  29 out of 100
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 People you've wasted
-993
+1383
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 People wasted by others
-201
+318
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Road Vehicles destroyed
-124
+159
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Boats destroyed
-6
+9
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Planes & Helicopters destroyed
-12
+13
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Tires popped with gunfire
-51
+70
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total number of wanted stars attained
-120
+195
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total number of wanted stars evaded
-69
+111
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Times busted
@@ -76,15 +76,15 @@ Times busted
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Hospital visits
-16
+24
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Number of headshots
-64
+87
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Daily police spending
-$30652.00
+$35761.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Least favorite gang
@@ -94,23 +94,23 @@ Haitians
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Gang members wasted
-574
+823
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Criminals wasted
-9
+10
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Kgs of explosives used
-128
+231
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Bullets fired
-10052
+15268
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Bullets that hit
-3600
+5471
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Accuracy
@@ -118,19 +118,19 @@ Accuracy
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled on foot (miles)
-32.96
+44.30
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by car (miles)
-297.04
+363.41
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by bike (miles)
-43.92
+45.31
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by boat (miles)
-10.72
+12.69
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by golf cart (miles)
@@ -138,11 +138,11 @@ Dist. traveled by golf cart (miles)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Dist. traveled by helicopter (miles)
-20.57
+29.99
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Total distance traveled (miles)
-405.84
+496.34
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Max. INSANE Jump dist. (m)
@@ -228,11 +228,11 @@ Fire Truck Mission level
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Stores Knocked Off
-  3 out of 15
+  5 out of 15
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Assassination Contracts Completed
-  2 out of 5
+  3 out of 5
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Pizza's Delivered
@@ -264,15 +264,15 @@ WAVE 103
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Sprayings
-28
+31
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Weapon Budget
-$7010.00
+$13010.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Fashion Budget
-$330.00
+$530.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Property Budget
@@ -280,11 +280,11 @@ $34500.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Auto Repair and Painting Budget
-$2500.00
+$2800.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Property Destroyed
-$644738.00
+$842898.00
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Property Owned
